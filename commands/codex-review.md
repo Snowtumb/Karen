@@ -1,5 +1,4 @@
 ---
-name: codex-review
 description: Run a cross-model code review using OpenAI Codex CLI
 allowed-tools: Read, Bash, Edit, Write, Glob, Grep
 ---
