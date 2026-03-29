@@ -1,0 +1,17 @@
+{
+  "name": "karen",
+  "version": "1.0.0",
+  "description": "Cross-model code review — invokes OpenAI Codex CLI for second-opinion bug review, evaluates findings, filters false positives, and auto-fixes confirmed bugs",
+  "repository": "https://github.com/Snowtumb/Karen",
+  "license": "MIT",
+  "keywords": [
+    "claude-code-plugin",
+    "code-review",
+    "codex",
+    "openai",
+    "cross-model",
+    "bug-detection",
+    "ai-review",
+    "second-opinion"
+  ]
+}
