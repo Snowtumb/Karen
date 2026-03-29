@@ -1,6 +1,6 @@
 {
   "name": "karen",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "She hates your PR. Cross-model code review that uses Codex CLI to find every bug you and Claude Code messed up. Evaluates findings, filters false positives, auto-fixes confirmed bugs. She will talk to a manager if needed.",
   "repository": "https://github.com/Snowtumb/Karen",
   "license": "MIT",
